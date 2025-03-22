@@ -160,6 +160,7 @@ let m = (y2 - y1) / (x2 - x1);
 console.log("The slope between the points is: ", m);
 // Compare the slope of above two questions.
 // Calculate the value of y (y = x2 + 6x + 9). Try to use different x values and figure out at what x value y is 0.
+//x = b + sqrt((b * b - 4 * a * c)/(2 * a))
 
 // Writ a script that prompt a user to enter hours and rate per hour. Calculate pay of the person?
 // Enter hours: 40
@@ -221,6 +222,7 @@ console.log(`You lived  ${numYears}*${oneYearInSecs} seconds`);
 
 // Create a human readable time format using the Date time object
 // YYYY-MM-DD HH:mm
+
 // DD-MM-YYYY HH:mm
 // DD/MM/YYYY HH:mm
 
